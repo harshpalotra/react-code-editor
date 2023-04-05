@@ -214,13 +214,13 @@ const Landing = () => {
         pauseOnHover
       />
 
-      <a
-        href="https://github.com/manuarora700/react-code-editor"
+<a
+      href="https://github.com/Harrypatel21"
         title="Fork me on GitHub"
         class="github-corner"
         target="_blank"
         rel="noreferrer"
-      >
+      > 
         <svg
           width="50"
           height="50"

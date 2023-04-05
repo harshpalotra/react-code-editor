@@ -33,15 +33,15 @@ const Footer = () => {
         </svg>{" "}
         by{" "}
         <a
-          href="https://manuarora.in"
+          href=""
           target="__blank"
           className="text-gray-700  hover:bg-red-500 hover:text-white font-medium"
         >
-          Manu Arora.{" "}
+          Hariom Patidar.{" "}
         </a>
         Code at{" "}
         <a
-          href="https://github.com/manuarora700/react-code-editor"
+          href="https://github.com/Harrypatel21/react-code-editor"
           target="__blank"
           className="text-gray-700  hover:bg-red-500 hover:text-white font-medium"
         >
@@ -55,15 +55,15 @@ const Footer = () => {
         >
           FreeCodeCamp
         </a>
-        . Visit{" "}
+        {" "}
         <a
           href="https://algochurn.com"
           target="__blank"
           className="text-gray-700  hover:bg-red-500 hover:text-white font-medium"
         >
-          Algochurn{" "}
+         {" "}
         </a>
-        to ace your next frontend interview.
+      
       </span>
     </div>
   );
